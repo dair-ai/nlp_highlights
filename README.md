@@ -14,4 +14,18 @@ In this report, I have provided a summary of all the biggest NLP stories of the 
 [PDF of "NLP 2018 Highlights"](https://github.com/omarsar/nlp_highlights/blob/master/NLP_2018_Highlights.pdf)
 
 ---
+If this repository helped you in your research, please consider citing us:
+
+```
+@misc{saravia2020dair,
+  title={dair.ai: Democratizing Artificial Intelligence Research, Education, and Technologies},
+  author={Saravia, Elvis},
+  journal={https://github.com/dair-ai},
+  number={1},
+  year={2020}
+}
+```
+
+---
 If you are interested in extending this report for the upcoming year (2020), get in touch with me through Twitter ([@omarsar0](https://twitter.com/omarsar0)) or at ellfae@gmail.com.
+
